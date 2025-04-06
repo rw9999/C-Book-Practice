@@ -10,4 +10,4 @@ main()
 
 }
 
-/*outputs "hello, worldc" */
+/*hello, worldc*/
